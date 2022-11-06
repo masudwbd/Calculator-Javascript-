@@ -1,0 +1,30 @@
+#result_row{
+    background-color: black;
+    border: 1px solid black;
+    width: 320px;
+    height: 80px;
+    border-radius: 15px 15px 0px 0px;
+
+}
+#result{
+    color: #fff;
+    font-size: 40px;
+    text-align: right;
+}
+.btn{
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+    border-radius: 0px
+}
+.equal{
+    margin-left:-80px;
+    margin-top:80px;
+    height: 320px;
+    width: 80;  
+    background-color: orange;
+}
+
+.equal h1{
+    padding-top: 130px;
+}
